@@ -1,0 +1,102 @@
+body {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: #FFF;
+}
+
+.form-signin {
+  max-width: 330px;
+  padding: 15px;
+  margin: 0 auto;
+}
+.form-signin .form-signin-heading,
+.form-signin .checkbox {
+  margin-bottom: 10px;
+}
+.form-signin .checkbox {
+  font-weight: normal;
+}
+.form-signin .form-control {
+  position: relative;
+  height: auto;
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+  padding: 10px;
+  font-size: 16px;
+}
+.form-signin .form-control:focus {
+  z-index: 2;
+}
+.form-signin input[type="email"] {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+.form-signin input[type="password"] {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+
+
+.manreq  {border-collapse:collapse;border-spacing:0;background-color:#a0d4a4}
+.manreq td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+.manreq th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+.manreq .tg-zd20{font-size:22px;text-align:center}
+.manreq .tg-wrg0{font-size:22px;text-align:center;vertical-align:top}
+.manreq .tg-wv9z{font-size:22px;text-align:center}
+.manreq .tg-qcjy{font-size:22px;vertical-align:top}
+.manreq .tg-yw4l{vertical-align:top}
+
+
+
+.roster  {border-collapse:collapse;border-spacing:0;background-color:#33FF66;padding:10px;}
+.roster td{font-family:Arial, sans-serif;font-size:14px;padding:10px 20px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+.roster th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 20px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+.roster .tg-baqh{text-align:center;vertical-align:top}
+.roster .tg-jlrw{font-size:16px;text-align:center}
+.roster .tg-yw4l{vertical-align:top}
+@media screen and (max-width: 767px) {.tg {width: auto !important;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;}}
+
+.rosterbuttons1{
+  width: 35%;
+  background-color: red;
+  color: white;
+
+}
+.rosterbuttons2{
+  width: 35%;
+  color: white;
+  background-color: green;
+}
+.rosterbuttons3{
+  width: 30%;
+  background-color: purple;
+  color: white;
+}
+.rosterbuttons4{
+  width: 30%;
+  background-color: white;
+}
+.rosterbuttons5{
+  width: 30%;
+  background-color: blue;
+  color: white;
+}
+
+.chat{
+  width: 360px;
+  height: 500px;
+  background-color: white;
+  float: center;
+}
+
+.tp  {border-collapse:collapse;border-spacing:0;}
+.tp td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+.tp th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+.tp .tp-wv9z{font-size:22px;text-align:center}
+
+
+
+
